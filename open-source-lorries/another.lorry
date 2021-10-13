@@ -1,0 +1,3 @@
+test:
+  type: git
+  url: https://gitlab.com/CodethinkLabs/lorry/lorry-controller.git
